@@ -1,6 +1,6 @@
 # 介绍
 
-这个例子用于比较robpike.io/filter和loop遍历数组的速度
+这个例子用于比较`robpike.io/filter`和loop遍历数组的速度
 
 These codes are used to compare the speed of `robpike.io/filter` and loop.
 
